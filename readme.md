@@ -1,0 +1,1 @@
+# ES2015 (ES6) with wallaby.js via babel (6to5)

@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="es6 via babel" type="wallaby" factoryName="Wallaby.js" config="$PROJECT_DIR$/wallaby-babel.js">
+    <method />
+  </configuration>
+</component>

@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "devDependencies": {
+    "babel": "^4.3.0"
+  }
+}
